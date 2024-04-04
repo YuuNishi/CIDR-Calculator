@@ -6,7 +6,11 @@ Esta é uma calculadora que visa dado um IP na notação CIDR retornar:
 - Número de endereços disponíveis
 - Endereço da rede
 - Endereço de broadcast
-  
+
+# Técnologias
+- Java
+- Gradle
+- JUnit
 # Estado da obra
 ## Funções disponíveis
 - Máscara de subrede
@@ -15,3 +19,4 @@ Esta é uma calculadora que visa dado um IP na notação CIDR retornar:
 - Range de ips
 - Endereço da rede
 - Endereço de broadcast
+- Testes
