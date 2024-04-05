@@ -7,7 +7,7 @@ Esta é uma calculadora que visa dado um IP na notação CIDR retornar:
 - Endereço da rede
 - Endereço de broadcast
 
-# Técnologias
+# Ferramentas
 - Java
 - Gradle
 - JUnit
